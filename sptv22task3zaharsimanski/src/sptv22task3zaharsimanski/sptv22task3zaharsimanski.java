@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class sptv22task3zaharsimanski {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
